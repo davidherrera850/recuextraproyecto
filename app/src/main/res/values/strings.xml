@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PotterApp</string>
+    <string name="title_activity_character_detail_host">CharacterDetailHostActivity</string>
+    <string name="title_character_list">Characters</string>
+    <string name="title_character_detail">Character Detail</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="action_register">register</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="user_registered">Usuario registrado</string>
+    <string name="list_title">Lista de personajes</string>
+    <string name="personaje">Personaje</string>
+    <string name="apodo">Apodo</string>
+    <string name="estudiante">¿Es estudiante?</string>
+    <string name="casa">Casa de Hogwarts</string>
+    <string name="interprete">Interprete</string>
+    <string name="imagen">imagen</string>
+    <string name="hijos">hijos</string>
+    <string name="add_character">Crear Personaje</string>
+    <string name="character_added">Personaje guardado</string>
+    <string name="configuration">configuracion</string>
+    <string name="title_activity_preferences">Preferencias</string>
+</resources>
